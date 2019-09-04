@@ -7,7 +7,7 @@ A curated list of national CERT (CIRT?) teams issuing cybersecurity alerts and a
 - Centre for Cyber Security Belgium: https://cert.be/en/advisories
 
 **Canada**
-- Alerts & advisories: https://cyber.gc.ca/en/alerts-advisories
+- Canadian Centre of Cyber Security (CCCS): Alerts & advisories: https://cyber.gc.ca/en/alerts-advisories
 
 **Czech Republic** 
 - The National CSIRT of the Czech Republic: https://csirt.cz/news/security/
