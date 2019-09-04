@@ -1,4 +1,4 @@
-A curated list of national CERT teams issuing cybersecurity alerts and advisories. Please add to the list!
+A curated list of national CERT (CIRT?) teams issuing cybersecurity alerts and advisories. Please add to the list!
 
 **Canada**
 - Alerts & advisories: https://cyber.gc.ca/en/alerts-advisories
