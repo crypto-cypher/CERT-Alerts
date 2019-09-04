@@ -1,6 +1,10 @@
 A curated list of national CERT (CIRT?) teams issuing cybersecurity alerts and advisories. Please add to the list!
 Cypher will compile a massive RSS feed when this is more complete...
 
+Other compilation sources:
+- https://www.sei.cmu.edu/education-outreach/computer-security-incident-response-teams/national-csirts/
+- https://en.wikipedia.org/wiki/Computer_emergency_response_team
+
 **Australia**
 - AusCERT Security Bulletins: https://www.auscert.org.au/resources/security-bulletins/
 
