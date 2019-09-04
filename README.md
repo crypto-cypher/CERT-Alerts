@@ -1,7 +1,16 @@
 A curated list of national CERT (CIRT?) teams issuing cybersecurity alerts and advisories. Please add to the list!
 
+**Australia**
+- AusCERT Security Bulletins https://www.auscert.org.au/resources/security-bulletins/
+
+**Belgium**
+- Centre for Cyber Security Belgium https://cert.be/en/advisories
+
 **Canada**
 - Alerts & advisories: https://cyber.gc.ca/en/alerts-advisories
+
+**France**
+- Agence nationale de la sécurité des systèmes d'information: https://www.cert.ssi.gouv.fr/
 
 **Hong Kong**
 - GovCERT alerts: https://www1.crisp.govcert.gov.hk/portal/govcert/en/alerts.xhtml
