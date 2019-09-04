@@ -67,7 +67,7 @@ Cypher will compile a massive RSS feed when this is more complete...
 **Spain**
 - INCIBE Safety Notices: https://www.incibe.es/protege-tu-empresa/avisos-seguridad
 
-**Sweeden**
+**Sweden**
 - CERT-SE alerts/BMs: https://www.cert.se/arkiv
 
 **United Kingdom**
